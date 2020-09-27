@@ -10,6 +10,7 @@ import { ProductPageComponent } from './product-page/product-page.component';
   declarations: [
     AppComponent,
     ProductPageComponent
+
   ],
   imports: [
     BrowserModule,

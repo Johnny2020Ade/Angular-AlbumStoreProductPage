@@ -11,6 +11,7 @@ import { ProductPageComponent } from './product-page/product-page.component';
     AppComponent,
     ProductPageComponent
 
+
   ],
   imports: [
     BrowserModule,

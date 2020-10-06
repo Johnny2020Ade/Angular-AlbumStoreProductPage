@@ -5,10 +5,9 @@ import 'rxjs/add/operator/map';
 
 import { Album } from './album';
 
-import {Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs/Observable';
 
-import { Product } from '../product';
-
+import { Product } from './product';
 
 @Injectable()
 export class ProductService {
